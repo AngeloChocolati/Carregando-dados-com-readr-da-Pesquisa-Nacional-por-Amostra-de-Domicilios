@@ -24,7 +24,7 @@ nome <- c('V0101','V0102','V0103', 'V0104','V0105','V0106','V0201','V0202','V020
           'V4621','V4622','V4624','V4628','V4632', 'V4633','V9992')
 
 # nesta variavel eu resolvi atribuir esse nome como "tipo" e repare que foi adicionado um recurso chamado "paste0" ele serve para "quebrar" a linha do vetor
-# como pode obeservar abaixo temos está dividido em 3 sessoes ou linhas, pra que eu fiz isso? bom isso serve para quando vc tiver um vetor muito grande ai vc pode apenas as linhas do vetor sem o risco de retornar algum erro, ouseja, sem preuízo no seu código.
+# como pode obeservar abaixoo vetor está dividido em 3 sessoes ou linhas, pra que eu fiz isso? bom isso serve para quando vc tiver um vetor muito grande ai vc pode apenas as linhas do vetor sem o risco de retornar algum erro, ouseja, sem preuízo no seu código.
 tipo <- paste0("ccccccccccnncnncccccccncccccccccc", 
                "ccccccccccccccccccccccccccccccncn", 
                "ccnnncnncncccncc")
